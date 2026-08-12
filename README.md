@@ -274,5 +274,7 @@ AWS
 Build scalable and production-ready backend applications using Node.js, TypeScript, PostgreSQL, Redis, Docker, AWS and Nginx.
 
 Author: Aman Khan
+
 Role: Backend Engineer
+
 Skills: Node.js • TypeScript • PostgreSQL • Redis • Docker • AWS • Nginx

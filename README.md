@@ -277,4 +277,4 @@ Author: Aman Khan
 
 Role: Backend Engineer
 
-Skills: Node.js • TypeScript • PostgreSQL • Redis • Docker • AWS • Nginx
+Skills: Node.js • TypeScript • Kafka • Redis • PostgreSQL • Docker • AWS • Nginx

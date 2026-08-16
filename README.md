@@ -1,4 +1,4 @@
-PostgreSQL Backend Engineering
+PostgreSQL Backend Engineerin
 
 A practical PostgreSQL learning repository focused on the database concepts required for building production-grade Node.js backend applications.
 
